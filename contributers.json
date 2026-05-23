@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "আপনার নাম",
+    "role": "আপনার রোল বা পদবি",
+    "img": "https://example.com/your-image.png",
+    "link": "https://t.me/your-channel-link"
+  },
+  {
+    "name": "আরেকজনের নাম",
+    "role": "তার রোল",
+    "img": "https://example.com/another-image.jpg",
+    "link": "https://facebook.com/..."
+  }
+]
